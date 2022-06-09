@@ -30,7 +30,8 @@ Les commandes sont à executer sur git bash. Git bash est un terminal qui permet
 -transférez les modifications de votre référentiel local vers GitHub.
 `git push -u origin main`
 
-# Commandes Git pour mettre à jour un fichier sur GitHub
+# Commandes Git pour mettre à jour un fichier sur GitHub*
+```
 git add .
 git commit -m 'mon message'
 git push
